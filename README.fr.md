@@ -55,9 +55,9 @@
 
 ## 📬 Me contacter
 
-- 📧 astride.saman@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/astridesaman)  
-- 🌐 [Portfolio](https://astridesaman.dev) (bientôt)
+- 📧 astridesmn@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/astride-saman)  
+- 🌐 [Portfolio](https://portfolioastride.vercel.app/) (bientôt)
 
 ---
 
