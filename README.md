@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **"Les Pizzaiolas" Full Stack project**
+- 🔭 I’m currently working on **"Elysian Unity" Full Stack project**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://portfolioastride.vercel.app/](https://portfolioastride.vercel.app/)
 
-- 💬 Ask me about **Python, React and Entrepreneurship**
+- 💬 Ask me about **Python, AI and Entrepreneurship**
 
 - 📫 How to reach me **astridesmn@gmail.com**
 
