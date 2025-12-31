@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **astridesmn@gmail.com**
 
-- ⚡ Fun fact **I think i love cats !**
+- ⚡ Fun fact **i love cats !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
